@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>non-ending-service</name>
-	<comment>Project endless-service-java-master created by Buildship.</comment>
+	<name>endless-service</name>
+	<comment>Project endless-service-java-master created by Tolo.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
